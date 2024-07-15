@@ -1,0 +1,5 @@
+Eclipse And STS:  ^\s*\n   --- this is for Ctrl+F and click regular expression  enter replace all
+
+VS Code : ^(\s)*$\n        --- this is for Ctrl+H  and click regular expression and enter replace all 
+
+\(message\s*=\s*".*?"\)    --- this is for select this (message = string from beginning anything not consider
